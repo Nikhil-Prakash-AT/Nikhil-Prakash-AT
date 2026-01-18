@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nikhil Prakash AT
+ # Hi 👋, I'm Nikhil Prakash AT
 
 ### Java & Full-Stack Web Developer  
 Building scalable, real-world web applications with clean architecture and production-ready code.
@@ -7,10 +7,10 @@ Building scalable, real-world web applications with clean architecture and produ
 
 ## 👨‍💻 About Me
 
-  🔹 Java & Full-Stack Developer focused on backend-heavy applications  
-  🔹 Strong in **Java, JSP/Servlets, JDBC, MySQL**
-  🔹 Experience building **CRUD systems, dashboards, and APIs**
-  🔹 Passionate about clean UI, maintainable code, and real-world projects
+- 🔹 Java & Full-Stack Developer focused on backend-heavy applications  
+- 🔹 Strong in **Java, JSP/Servlets, JDBC, MySQL**
+- 🔹 Experience building **CRUD systems, dashboards, and APIs**
+- 🔹 Passionate about clean UI, maintainable code, and real-world projects
 
 ---
 
