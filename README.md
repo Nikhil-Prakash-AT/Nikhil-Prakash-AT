@@ -17,7 +17,7 @@ Building scalable, real-world web applications with clean architecture and produ
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,express,mongodb,mysql,git,github,vscode,eclipse,apache tomcat" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,express,mongodb,mysql,git,github,vscode,eclipse,apachetomcat" />
 </p>
 
 ---
